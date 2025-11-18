@@ -28,12 +28,12 @@ You can download my full CV here:
 
 - **M.Sc. in Computer Science & Technology**  
   *Nanjing Normal University, Nanjing, China*  
-  *2023 – Present (expected June 2026)*  
+  *2023 – Present (expected July 2026)*  
   Thesis: **Video-Based Dynamic Obstacle Avoidance using Deep Reinforcement Learning**
 
 - **B.Eng. in Computer Science & Technology**  
   *Henan Polytechnic University, China*  
-  *Graduated: [Year]*
+  *Graduated: [July 2021]*
 
 ---
 
@@ -52,8 +52,6 @@ You can download my full CV here:
   *Journal of Computing & Electronic Information Management, 2024*  
   Co-author.
 
-*(Add more publications here as they are accepted.)*
-
 ---
 
 ## Projects
@@ -65,8 +63,6 @@ You can download my full CV here:
 - **E-commerce Performance Testing Framework**  
   - Designed and implemented a load-testing framework using Python and tools such as Locust/JMeter.  
   - Evaluated API latency, throughput and error rates under different traffic patterns.
-
-*(Add more projects with 2–3 bullet points each.)*
 
 ---
 
