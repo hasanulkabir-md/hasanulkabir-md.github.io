@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master’s student in Computer Science &amp; Technology at Nanjing Normal
-University (NJNU), China. My research focuses on **video-based dynamic
-obstacle avoidance using deep reinforcement learning** for autonomous mobile robots.
+Master’s student in Computer Science &amp; Technology at **Nanjing Normal University (NJNU)**, China.  
+Research on **video-based dynamic obstacle avoidance using deep reinforcement learning** for autonomous robots.
 
 ## Research interests
 
@@ -19,5 +18,6 @@ obstacle avoidance using deep reinforcement learning** for autonomous mobile rob
 
 ## Contact
 
-- Email: [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
-- GitHub: [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
+- 📧 [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
+- 💻 [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
+
