@@ -1,16 +1,14 @@
 ---
-layout: single
-title: "Research"
-permalink: /research/
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
-# Research
+{% include base_path %}
 
-My current research focuses on **video-based dynamic obstacle avoidance using deep reinforcement learning**.
+Here is a selection of my publications and manuscripts.
 
-I am building an end-to-end system that:
-
-- Uses **YOLO** to detect and track dynamic obstacles from a monocular camera.  
-- Trains deep RL policies (DQN / Double-DQN / PPO) in **ROS + Gazebo** to learn safe navigation.  
-- Evaluates robustness under different lighting, noise, and motion conditions.
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
