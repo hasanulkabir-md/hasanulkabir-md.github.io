@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 ---
 permalink: /
 title: "Md. Hasanul Kabir"
@@ -25,8 +18,3 @@ obstacle avoidance using deep reinforcement learning** for autonomous mobile rob
 - Deep reinforcement learning for autonomous navigation  
 - Computer vision (YOLO, detection & tracking)  
 - Robotics, ROS / Gazebo simulation, intelligent inspection robots  
-
-## Contact
-
-- Email: [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
-- GitHub: [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
