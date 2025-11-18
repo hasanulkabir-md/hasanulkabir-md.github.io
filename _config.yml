@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title: "Md. Hasanul Kabir / Academic Homepage"
+title: "Md. Hasanul Kabir"
 name: &name "Md. Hasanul Kabir"
 description: &description "Academic portfolio of Md. Hasanul Kabir"
 url: https://hasanulkabir-md.github.io
@@ -42,9 +42,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-3180-819X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -75,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "hasanulkabir-md"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
