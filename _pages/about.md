@@ -1,20 +1,17 @@
-
 ---
-permalink: /
-title: "Md. Hasanul Kabir"
-layout: home
+layout: single
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-I am a Master’s student in Computer Science &amp; Technology at Nanjing Normal
-University (NJNU), China. My research focuses on **video-based dynamic
-obstacle avoidance using deep reinforcement learning** for autonomous mobile robots.
+# Projects
 
-## Research interests
+### RL-based Obstacle Avoidance in ROS/Gazebo
+End-to-end pipeline that combines YOLO-based perception with DQN/PPO policies for mobile robot navigation in dynamic environments.
 
-- Deep reinforcement learning for autonomous navigation  
-- Computer vision (YOLO, detection & tracking)  
-- Robotics, ROS / Gazebo simulation, intelligent inspection robots  
+### E-commerce Performance Testing Framework
+Load and stress testing framework using Python and tools such as Locust/JMeter to evaluate API latency, throughput, and error rates.
+
+### (Add more projects)
+Add each project with a short 2–3 line description and link to the GitHub repo if available.
