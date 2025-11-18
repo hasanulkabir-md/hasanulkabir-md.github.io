@@ -9,28 +9,32 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title: "Md. Hasanul Kabir / Academic Homepage"
+name: &name "Md. Hasanul Kabir"
+description: &description "Academic portfolio of Md. Hasanul Kabir"
+url: https://hasanulkabir-md.github.io
+baseurl: ""
+repository: "hasanulkabir-md/hasanulkabir-md.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+author:
+  avatar           : "photo.jpg"   # we’ll upload this file next
+  name             : "Md. Hasanul Kabir"
+  bio              : "Master’s student in Computer Science & Technology at Nanjing Normal University. Research on video-based dynamic obstacle avoidance using deep reinforcement learning for autonomous robots."
+  location         : "Nanjing, China"
+  employer         : "Nanjing Normal University"
+  email            : "hasanul.kabir09@gmail.com"
+
+  github           : "hasanulkabir-md"
+  googlescholar    :
+  orcid            :
+  linkedin         :
+  twitter          :
+
 
   # Academic websites
   academia         : # URL
