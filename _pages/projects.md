@@ -5,7 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
+## RL-based Obstacle Avoidance in ROS/Gazebo
+End-to-end pipeline combining YOLO-based perception with DQN/PPO policies for mobile
+robot navigation in dynamic environments.
 
-- **RL-based Obstacle Avoidance in ROS/Gazebo** – YOLO + DQN/PPO for mobile robot navigation in dynamic environments.  
-- **E-commerce Performance Testing Framework** – load testing toolkit with Python and Locust/JMeter.
+## E-commerce Performance Testing Framework
+Load-testing toolkit using Python and Locust/JMeter to evaluate API latency,
+throughput, and error rates.
