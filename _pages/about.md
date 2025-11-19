@@ -8,23 +8,65 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master’s student in Computer Science &amp; Technology at **Nanjing Normal University (NJNU)**, China.  
-My research focuses on **video-based dynamic obstacle avoidance using deep reinforcement learning** for autonomous robots.
+I am a final-year Master’s student in **Computer Science and Technology** at  
+**Nanjing Normal University (NJNU)**, Nanjing, China. My research focuses on  
+**video-based dynamic obstacle avoidance using deep reinforcement learning** for autonomous robots.
 
-This homepage serves as a brief introduction. Use the navigation bar above to see my projects, publications, and CV.
+This homepage gives a brief overview of my background, research interests, and recent activities.  
+You can find more details on the **[Projects](/projects/)** and **[Publications](/publications/)** pages.
 
-## Research interests
+---
 
-- Deep reinforcement learning for autonomous navigation  
-- Computer vision and video-based perception (YOLO, detection & tracking)  
-- Robotics, ROS/Gazebo simulation, intelligent inspection robots  
+## About Me
 
-## Current work
+I am currently pursuing my Master’s degree in Computer Science and Technology at Nanjing Normal University,  
+under the supervision of **Professor Xiaojun Qian**. I specialize in:
 
-- Integrating YOLO-based perception with DQN/Double-DQN/PPO policies in **ROS + Gazebo**  
-- Studying robust collision-free navigation in dynamic environments  
+- Artificial Intelligence  
+- Machine Learning  
+- Autonomous Systems  
+- Software Testing  
+
+My work focuses on applying intelligent algorithms to solve real-world robotics challenges.  
+Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in 2021.
+
+I am actively looking for opportunities to pursue a **PhD starting in Fall 2026**,  
+with a focus on AI, multi-robot systems, or autonomous vehicles.
+
+---
+
+## Research Interests
+
+My broader research interests include:
+
+- **Artificial Intelligence & Machine Learning**  
+- **Deep Reinforcement Learning for decision-making and control**  
+- **Multi-Robot Systems and Autonomous Vehicles**  
+- **Perception and navigation in complex, dynamic environments**  
+
+I am especially interested in how learning-based methods can improve  
+**perception, planning, and robust navigation** for autonomous systems.
+
+---
+
+## News & Activities
+
+- **April 2025** – Started working on **video-based dynamic obstacle avoidance** using Deep RL and ROS.  
+- **April 2025** – Led a hands-on session on operating the **Bunker Mini** robot in a NoMachine environment.  
+- **March 2025** – Assisted with international student reception and academic orientation at NJNU.  
+- **September 2024** – Co-authored the paper *“Multi-point Navigation Method for Intelligent Inspection Robots.”*  
+- **December 2024** – Participated in *Joyful Journey to Literary Jiangsu 2024* (storytelling video submission).  
+- **February 2024** – Joined the **Institute of Artificial Intelligence Lab** at NJNU under Prof. Xiaojun Qian.  
+- **January 2024** – Joined the **Research and Development team** at Consortium Research Center (CRC).  
+- **December 2023** – Attended the **6th Jiangsu Artificial Intelligence Conference**; our group presented a poster on robot navigation.  
+- **November 2023** – Guided undergraduate students in research methods, literature review, and AI/robotics experiments.  
+- **October 2022** – First co-authored the paper *“Credit Approval Decision using Machine Learning Algorithms.”*  
+- **July 2021** – Joined **CRC** as a **Junior Research Assistant**.
+
+---
 
 ## Contact
 
+- 📍 Nanjing, China  
 - 📧 [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
 - 💻 [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
