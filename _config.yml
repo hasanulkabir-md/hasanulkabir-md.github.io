@@ -22,7 +22,7 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
 author:
   # Biographic information
 author:
-  avatar           : "images/Profile.png"   # we’ll upload this file next
+  avatar           : "Profile.png"
   name             : "Md. Hasanul Kabir"
   bio              : "Master’s student in Computer Science & Technology at Nanjing Normal University. Research on video-based dynamic obstacle avoidance using deep reinforcement learning for autonomous robots."
   location         : "Nanjing, China"
