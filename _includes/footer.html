@@ -12,14 +12,36 @@
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
+    {% unless site.atom_feed.hide %}
+      <li>
+        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
+          <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+        </a>
+      </li>
+    {% endunless %}
   </ul>
 </div>
 {% endif %}
 
+<div class="page__footer-meta">
+  <p>
+    <strong>Md. Hasanul Kabir</strong> · Master’s student in Computer Science &amp; Technology,  
+    Nanjing Normal University (NJNU), China.  
+    Research interests: deep reinforcement learning, AI, Mult-agent, computer vision, and autonomous robots.
+  </p>
+
+  <p>
+    <a href="{{ base_path }}/">Home</a> ·
+    <a href="{{ base_path }}/projects/">Projects</a> ·
+    <a href="{{ base_path }}/publications/">Publications</a> ·
+    <a href="{{ base_path }}/blog/">Blog Posts</a> ·
+    <a href="{{ base_path }}/cv/">Curriculum Vitae</a>
+  </p>
+</div>
+
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+  Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+  <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a> (Minimal Mistakes theme).<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}.
 </div>
