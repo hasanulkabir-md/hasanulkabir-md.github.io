@@ -24,7 +24,7 @@ author:
 author:
   avatar           : "Profile.png"
   name             : "Md. Hasanul Kabir"
-  bio              : "Master’s student in Computer Science & Technology at Nanjing Normal University. Research on video-based dynamic obstacle avoidance using deep reinforcement learning for autonomous robots."
+  bio              : "Master’s student in Computer Science & Technology at Nanjing Normal University."
   location         : "Nanjing, China"
   employer         : "Nanjing Normal University"
   email            : "hasanul.kabir09@gmail.com"
@@ -53,7 +53,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/hasanulkabir-md"
-  kaggle           : # Username  
+  kaggle           : "https://www.kaggle.com/mdhasanulkabir"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -69,7 +69,7 @@ author:
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/hasanulkabir-md/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@hasanulkabir_md"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
