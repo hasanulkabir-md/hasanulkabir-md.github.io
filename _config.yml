@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title: "Md. Hasanul Kabir"
-name: &name "Md. Hasanul Kabir"
-description: &description "Academic portfolio of Md. Hasanul Kabir"
-url: https://hasanulkabir-md.github.io
+title: "Md Hasanul Kabir"
+name: &name "Md Hasanul Kabir"
+description: "Md Hasanul Kabir – Master's student at Nanjing Normal University working on AI, deep reinforcement learning and autonomous robots."
+url: "https://hasanulkabir-md.github.io"
 baseurl: ""
 repository: "hasanulkabir-md/hasanulkabir-md.github.io"
 
@@ -131,10 +131,10 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "aa5w6DPfeoGLuQgicooAwVRT_6TpIuZcJT6YNeHAfeU"
+bing_site_verification   : "3AA7B28957E92D1C14E7E50F9762AC7E"
 alexa_site_verification  :
-yandex_site_verification :
+yandex_site_verification : "daf2eb461789ee6a"
 
 
 # Social Sharing
