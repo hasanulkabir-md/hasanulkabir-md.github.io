@@ -5,24 +5,42 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 📝 Journal Publications
+# Journal Publications
 
 ---
 
-### Multi-point Navigation Method for Intelligent Inspection Robots  
-![publication thumbnail](/images/inspection-thumb.jpg)
+### **Multi-point Navigation Method for Intelligent Inspection Robots (2024)**  
+Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jianhua · Zeng, Liwei · Ye, Zewei · **Md Hasanul Kabir**
 
-**Wang, Zhicheng, Qingzhang Wang, Lingling Shen, Xiaojun Qian, Jianhua Cui, Liwei Zeng, Zewei Ye, and Md Hasanul Kabir. (2024).**  
-*Journal of Computing and Electronic Information Management, 14(2), 16-19.*  
-➡️ https://doi.org/10.54097/1zjue56e  
+<div style="display: flex; align-items: flex-start; margin-top: 10px;">
+  <img src="/images/multipoint-thumb.png" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
+  <div>
+    This paper proposes an efficient multi-point navigation approach for intelligent inspection robots, 
+    focusing on path optimization, task scheduling, and real-time environment interaction.  
+    The method improves navigation accuracy and reduces traversal time in complex inspection scenarios.
 
-**Description:**  
-A navigation method designed for inspection robots with multi-waypoint traversal.  
-Includes ROS/Gazebo simulation and decision-making improvements.
+**Journal:** *Journal of Computing and Electronic Information Management*, 14(2): 16–19  
+**DOI:** https://doi.org/10.54097/1zjue56e  
 
-**Download:**  
-- <a href="/files/paper1.pdf" class="btn btn--primary">PDF</a>
-- [BibTeX](#)
+
+
+**📄 Download PDF:**  
+[Click here](/files/multi-point.pdf)
+
+<details>
+  <summary><strong>BibTeX</strong></summary>
+
+```bibtex
+@article{kabir2024multipoint,
+  title={Multi-point Navigation Method for Intelligent Inspection Robots},
+  author={Wang, Zhicheng and Wang, Qingzhang and Shen, Lingling and Qian, Xiaojun and Cui, Jianhua and Zeng, Liwei and Ye, Zewei and Kabir, Md Hasanul},
+  journal={Journal of Computing and Electronic Information Management},
+  volume={14},
+  number={2},
+  pages={16--19},
+  year={2024},
+  doi={10.54097/1zjue56e}
+}
 
 ---
 
@@ -40,3 +58,17 @@ Evaluates ML models (Random Forest, Logistic Regression, SVM) for automated cred
 **Download:**  
 - [IEEE Paper](#)  
 - [PDF](#)
+
+
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+# Journal Publications
+
+---
+
+
