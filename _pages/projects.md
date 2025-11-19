@@ -11,15 +11,14 @@ Here is a selection of my main projects. More details are available on my GitHub
 
 ## Video-based Obstacle Avoidance using Deep Reinforcement Learning (DRL)
 
-![Video-based obstacle avoidance thumbnail](/images/drl-obstacle-avoidance.jpg){: width="260" .align-left }
-
+<a href="/images/drl-obstacle-avoidance.jpg">
+<img src=/images/drl-obstacle-avoidance.jpg" alt="DRL Obstacle Avoidance" style="width:300px; border-radius:8px; margin-bottom:10px;">
+</a>
 This ongoing research focuses on developing an intelligent obstacle avoidance system for autonomous mobile robots using real-time video input.  
 A **YOLO-based object detection** model is used to detect and classify dynamic obstacles, while **DRL algorithms (DQN, PPO)** learn navigation strategies through continuous interaction with the environment.
 
 The system is developed and tested in **ROS** and **Gazebo**, allowing experiments under different lighting conditions, sensor noise, and motion dynamics.  
 The goal is an end-to-end framework that tightly fuses **visual perception** and **decision-making** for safer and more robust autonomous navigation.
-
-{: .clear }
 
 [Demo](https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance)
 
