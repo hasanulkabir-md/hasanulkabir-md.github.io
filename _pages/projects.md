@@ -11,7 +11,7 @@ Here is a selection of my main projects. More details are available on my GitHub
 
 ## Video-based Obstacle Avoidance using Deep Reinforcement Learning (DRL)
 
-![Video-based obstacle avoidance thumbnail](/images/projects/drl-obstacle-avoidance.jpg){: width="260" .align-left }
+![Video-based obstacle avoidance thumbnail](/images/drl-obstacle-avoidance.jpg){: width="260" .align-left }
 
 This ongoing research focuses on developing an intelligent obstacle avoidance system for autonomous mobile robots using real-time video input.  
 A **YOLO-based object detection** model is used to detect and classify dynamic obstacles, while **DRL algorithms (DQN, PPO)** learn navigation strategies through continuous interaction with the environment.
@@ -25,7 +25,7 @@ The goal is an end-to-end framework that tightly fuses **visual perception** and
 
 ## Kalman Filter for Motion Tracking
 
-![Kalman filter thumbnail](/images/projects/kalman-filter-tracking.jpg){: width="260" .align-left }
+![Kalman filter thumbnail](/images/kalman-filter-tracking.jpg){: width="260" .align-left }
 
 A project demonstrating how **probabilistic filtering** can recover smooth motion estimates from noisy sensor data.
 
@@ -41,7 +41,7 @@ A project demonstrating how **probabilistic filtering** can recover smooth motio
 
 ## Bayesian Regression for Noisy Sensor Data
 
-![Bayesian regression thumbnail](/images/projects/bayesian-regression-sensors.jpg){: width="260" .align-left }
+![Bayesian regression thumbnail](/images/bayesian-regression-sensors.jpg){: width="260" .align-left }
 
 A probabilistic modeling project focusing on **uncertainty in real-world sensor readings**.
 
@@ -57,7 +57,7 @@ A probabilistic modeling project focusing on **uncertainty in real-world sensor 
 
 ## Classifying Fashion-MNIST Images with CNNs
 
-![Fashion MNIST CNN thumbnail](/images/projects/fashion-mnist-cnn.jpg){: width="260" .align-left }
+![Fashion MNIST CNN thumbnail](/images/fashion-mnist-cnn.jpg){: width="260" .align-left }
 
 A **Convolutional Neural Network (CNN)** to classify clothing items in the **Fashion-MNIST** dataset.
 
@@ -73,7 +73,7 @@ This project strengthens my foundations in deep learning, experiment tracking, a
 
 ## Attention-Enhanced Spatio-Temporal GCN for Air Quality Prediction
 
-![Air quality AE-STGCN thumbnail](/images/projects/ae-stgcn-air-quality.jpg){: width="260" .align-left }
+![Air quality AE-STGCN thumbnail](/images/ae-stgcn-air-quality.jpg){: width="260" .align-left }
 
 Air pollution is a major challenge in rapidly industrializing regions. Accurate forecasting of air quality is important for policy and health protection.
 
