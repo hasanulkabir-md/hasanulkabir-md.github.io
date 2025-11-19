@@ -5,10 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
+Here is a selection of my main projects. More details are available on my GitHub and research pages.
 
 ---
-
 ### Video-based Obstacle Avoidance using Deep Reinforcement Learning (DRL)
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
