@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journal Publications
+# Journal
 
 ---
 
@@ -18,41 +18,6 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
     This paper proposes an efficient multi-point navigation approach for intelligent inspection robots, 
     focusing on path optimization, task scheduling, and real-time environment interaction.  
     The method improves navigation accuracy and reduces traversal time in complex inspection scenarios.
-
-**Journal:** *Journal of Computing and Electronic Information Management*, 14(2): 16–19  
-**DOI:** https://doi.org/10.54097/1zjue56e  
-
-
-
-**📄 Download PDF:**  
-[Click here](/files/paper1.pdf)
-
-<details>
-  <summary><strong>BibTeX</strong></summary>
-
-```bibtex
-@article{kabir2024multipoint,
-  title={Multi-point Navigation Method for Intelligent Inspection Robots},
-  author={Wang, Zhicheng and Wang, Qingzhang and Shen, Lingling and Qian, Xiaojun and Cui, Jianhua and Zeng, Liwei and Ye, Zewei and Kabir, Md Hasanul},
-  journal={Journal of Computing and Electronic Information Management},
-  volume={14},
-  number={2},
-  pages={16--19},
-  year={2024},
-  doi={10.54097/1zjue56e}
-}
-
-# Conference Publications
-
-### **Multi-point Navigation Method for Intelligent Inspection Robots (2024)**  
-Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jianhua · Zeng, Liwei · Ye, Zewei · **Md Hasanul Kabir**
-
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/inspection-thumb.jpg" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    This paper proposes an efficient multi-point navigation approach for intelligent inspection robots,
-    focusing on path optimization, task scheduling, and real-time environment interaction.
-    The method improves navigation accuracy and reduces traversal time in complex inspection scenarios.
   </div>
 </div>
 
@@ -60,22 +25,41 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 **DOI:** <https://doi.org/10.54097/1zjue56e>  
 
 **📄 Download PDF:**  
-[Click here](/files/paper1.pdf)
+[Download PDF](/files/paper1.pdf){: .btn .btn--primary .btn--sm }
 
-<details>
-  <summary><strong>BibTeX</strong></summary>
+**📚 BibTeX:**  
+[Download BibTeX](/files/kabir2024multipoint.bib){: .btn .btn--secondary .btn--sm }
 
-```bibtex
-@article{kabir2024multipoint,
-  title={Multi-point Navigation Method for Intelligent Inspection Robots},
-  author={Wang, Zhicheng and Wang, Qingzhang and Shen, Lingling and Qian, Xiaojun and Cui, Jianhua and Zeng, Liwei and Ye, Zewei and Kabir, Md Hasanul},
-  journal={Journal of Computing and Electronic Information Management},
-  volume={14},
-  number={2},
-  pages={16--19},
-  year={2024},
-  doi={10.54097/1zjue56e}
-}
+
+---
+# Conference
+
+---
+
+### **Credit Approval Decision Using Machine Learning Algorithms (2022)**  
+**Krishna Dipayan Barua Mridha**, Meghla Monir Shorna, Hasan Nouman Nouman, **Md Hasanul Kabir**, Ajay Vikram Singh
+
+<div style="display: flex; align-items: flex-start; margin-top: 10px;">
+  <img src="/images/credit-approval-thumb.jpg" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
+  <div>
+    This paper evaluates multiple machine learning algorithms for automated credit approval,
+    comparing their performance in terms of accuracy, reliability, and robustness.  
+    The study shows that ML-based decision systems can significantly improve screening efficiency
+    and decision consistency in financial institutions.
+  </div>
+</div>
+
+**Conference:** *2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO)*  
+**Publisher:** IEEE  
+
+**📄 Download PDF:**  
+[Download PDF](/files/paper2.pdf){: .btn .btn--primary .btn--sm }
+
+**📚 BibTeX:**  
+[Download BibTeX](/files/kabir2022creditapproval.bib){: .btn .btn--secondary .btn--sm }
+
+---
+
 
 
 
