@@ -23,7 +23,7 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 
 **Journal:** *Journal of Computing and Electronic Information Management*, 14(2): 16–19  
 **DOI:** <https://doi.org/10.54097/1zjue56e>  
-[Download PDF](/files/paper1.pdf){: .btn .btn--primary .btn--sm }
+[Download PDF](/files/Paper1.pdf){: .btn .btn--primary .btn--sm }
 [Download BibTeX](/files/kabir2024multipoint.bib){: .btn .btn--secondary .btn--sm }
 
 
@@ -48,7 +48,7 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 **Conference:** *2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO)*  
 **Publisher:** IEEE  
 **DOI:** <https://doi.org/10.1109/ICRITO56286.2022.9964942>  
-[Download PDF](/files/paper2.pdf){: .btn .btn--primary .btn--sm }
+[Download PDF](/files/Paper2.pdf){: .btn .btn--primary .btn--sm }
 [Download BibTeX](/files/kabir2022creditapproval.bib){: .btn .btn--secondary .btn--sm }
 
 ---
