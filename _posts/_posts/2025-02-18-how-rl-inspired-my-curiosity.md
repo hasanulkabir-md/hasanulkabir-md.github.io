@@ -7,6 +7,7 @@ tags: [reinforcement-learning, robotics, autonomy, career]
 author_profile: true
 ---
 
+
 *Originally published on Medium at: https://medium.com/@hasanulkabir_md/how-reinforcement-learning-inspired-my-curiosity-in-autonomous-systems-3ae1a8895c12*
 
 Over the past few years, my interest in autonomous systems has evolved from simple curiosity to a focused research direction. What pushed me into this journey was an exciting encounter with **Reinforcement Learning (RL)**—a field where agents learn through interaction, trial, and error, much like how humans learn from experience.
