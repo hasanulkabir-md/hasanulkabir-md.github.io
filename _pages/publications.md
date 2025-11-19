@@ -40,7 +40,7 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 **Krishna Dipayan Barua Mridha**, Meghla Monir Shorna, Hasan Nouman Nouman, **Md Hasanul Kabir**, Ajay Vikram Singh
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
-  <img src="/images/credit-approval-thumb.jpg" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
+  <img src="/images/credit-ml-thumb.jpg" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
   <div>
     This paper evaluates multiple machine learning algorithms for automated credit approval,
     comparing their performance in terms of accuracy, reliability, and robustness.  
