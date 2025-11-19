@@ -13,7 +13,7 @@ author_profile: true
 Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jianhua · Zeng, Liwei · Ye, Zewei · **Md Hasanul Kabir**
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
-  <img src="/images/multipoint-thumb.png" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
+  <img src="/images/inspection-thumb.jpg" alt="thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
   <div>
     This paper proposes an efficient multi-point navigation approach for intelligent inspection robots, 
     focusing on path optimization, task scheduling, and real-time environment interaction.  
@@ -25,7 +25,7 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 
 
 **📄 Download PDF:**  
-[Click here](/files/multi-point.pdf)
+[Click here](/files/paper1.pdf)
 
 <details>
   <summary><strong>BibTeX</strong></summary>
@@ -44,28 +44,43 @@ Wang, Zhicheng · Wang, Qingzhang · Shen, Lingling · Qian, Xiaojun · Cui, Jia
 
 ---
 
-# 🎤 Conference Publications
+# Conference Publications
 
-### Credit Approval Decision Using Machine Learning Algorithms  
-![thumbnail](/images/credit-ml-thumb.jpg)
+---
 
-**Mridha, K. D. B., Shorna M. M., Nouman H. N., Kabir, M. H., Singh A. V. (2022).**  
-*2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO), IEEE.*
+<table>
+<tr>
+<td width="120">
+
+<img src="/images/icrito2022.png" alt="ICRITO 2022 paper thumbnail" width="120"/>
+
+</td>
+<td>
+
+### **Credit Approval Decision Using Machine Learning Algorithms**  
+**Krishna Dipayan Barua Mridha**, Meghla Monir Shorna, Hasan Nouman Nouman, **Md Hasanul Kabir**, Ajay Vikram Singh  
+**ICRITO 2022 – 10th International Conference on Reliability, Infocom Technologies and Optimization**  
+**IEEE Conference Paper**
 
 **Description:**  
-Evaluates ML models (Random Forest, Logistic Regression, SVM) for automated credit scoring.
+This work evaluates multiple machine learning algorithms for credit-approval prediction and compares their performance across accuracy, reliability, and interpretability. The experiments demonstrate that ML-based decision systems can significantly improve financial screening efficiency.
 
-**Download:**  
-- [IEEE Paper](#)  
-- [PDF](#)
+**Links:**  
+**[Download PDF](/files/paper2.pdf)**  
 
+<details>
+<summary><strong>BibTeX</strong></summary>
 
----
-layout: single
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+```bibtex
+@inproceedings{kabir2022creditapproval,
+  title={Credit approval decision using machine learning algorithms},
+  author={Mridha, Krishna Dipayan Barua and Monir Shorna, Meghla and Nouman, Hasan Nouman and Kabir, Md Hasanul and Singh, Ajay Vikram},
+  booktitle={2022 10th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
+}
+
 
 # Journal Publications
 
