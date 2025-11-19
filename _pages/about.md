@@ -7,45 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a final-year Master’s student in **Computer Science and Technology** at  
-**Nanjing Normal University (NJNU)**, Nanjing, China. My research focuses on  
-**video-based dynamic obstacle avoidance using deep reinforcement learning** for autonomous robots.
-
-This homepage gives a brief overview of my background, research interests, and recent activities.  
-You can find more details on the **[Projects](/projects/)** and **[Publications](/publications/)** pages.
-
----
-
 ## About Me
 
-I am currently pursuing my Master’s degree in Computer Science and Technology at Nanjing Normal University,  
-under the supervision of **Professor Xiaojun Qian**. I specialize in:
+I am a final-year Master’s student in **Computer Science and Technology** at  
+**Nanjing Normal University (NJNU), Nanjing, China**. My research focuses on
+**video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robots.
 
-- Artificial Intelligence  
-- Machine Learning  
-- Autonomous Systems  
-- Software Testing  
+This homepage gives a brief overview of my background, research interests, and recent activities.
+You can find more details on the **Projects** and **Publications** pages.
 
-My work focuses on applying intelligent algorithms to solve real-world robotics challenges.  
+My current work and interests include:
+
+- **Artificial Intelligence**
+- **Machine Learning**
+- **Autonomous Systems**
+- **Software Testing**
+
+My research focuses on applying intelligent algorithms to solve real-world robotics challenges.  
 Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in 2021.
 
-I am actively looking for opportunities to pursue a **PhD starting in Fall 2026**,  
-with a focus on AI, multi-robot systems, or autonomous vehicles.
-
----
-
-## Research Interests
-
-My broader research interests include:
-
-- **Artificial Intelligence & Machine Learning**  
-- **Deep Reinforcement Learning for decision-making and control**  
-- **Multi-Robot Systems and Autonomous Vehicles**  
-- **Perception and navigation in complex, dynamic environments**  
-
-I am especially interested in how learning-based methods can improve  
-**perception, planning, and robust navigation** for autonomous systems.
+> 🔍 **I am actively looking for opportunities to pursue a PhD starting in Fall 2026,  
+> with a focus on AI, multi-robot systems, or autonomous vehicles.**
 
 ---
 
