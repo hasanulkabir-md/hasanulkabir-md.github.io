@@ -14,7 +14,7 @@ I am a final-year Master’s student in **Computer Science and Technology** at
 **video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robots.
 
 This homepage gives a brief overview of my background, research interests, and recent activities.
-You can find more details on the **Projects** and **Publications** pages.
+You can find more details on the **[Projects](/projects/)** and **[Publications](/publications/)** pages.
 
 Under the supervision of **Professor Xiaojun Qian**, I work at the intersection of:
 
