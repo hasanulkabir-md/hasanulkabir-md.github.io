@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Md. Hasanul Kabir"
+title: ""
 layout: single
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ I am a final-year Master’s student in **Computer Science and Technology** at
 This homepage gives a brief overview of my background, research interests, and recent activities.
 You can find more details on the **Projects** and **Publications** pages.
 
-My current work and interests include:
+Under the supervision of **Professor Xiaojun Qian**, I work at the intersection of:
 
 - **Artificial Intelligence**
 - **Machine Learning**
@@ -24,7 +24,7 @@ My current work and interests include:
 - **Software Testing**
 
 My research focuses on applying intelligent algorithms to solve real-world robotics challenges.  
-Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in 2021.
+Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in July 2021.
 
 > 🔍 **I am actively looking for opportunities to pursue a PhD starting in Fall 2026,  
 > with a focus on AI, multi-robot systems, or autonomous vehicles.**
