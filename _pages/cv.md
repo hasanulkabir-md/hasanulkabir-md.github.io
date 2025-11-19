@@ -15,25 +15,41 @@ You can download my full CV here:
 
 ## Personal Information
 
-**Name:** Md. Hasanul Kabir  
+**Name:** Md Hasanul Kabir  
 **Nationality:** Bangladeshi  
 **Current Position:** Master’s student, Computer Science & Technology  
 **Institution:** Nanjing Normal University (NJNU), Nanjing, China  
-**Email:** [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
-**GitHub:** [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
 
 ---
 
 ## Education
 
-- **M.Sc. in Computer Science & Technology**  
+- **M.Sc. in Computer Science and Engineering (Computer Science & Technology)**  
   *Nanjing Normal University, Nanjing, China*  
-  *2023 – Present (expected July 2026)*  
-  Thesis: **Video-Based Dynamic Obstacle Avoidance using Deep Reinforcement Learning**
+  *September 2023 – July 2026 (expected)*  
+  - Dissertation: **In progress**  
+  - Selected coursework: Engineering Mathematics, Algorithm Design and Analysis, Artificial Intelligence, Research Methodology & Academic Writing, Machine Learning, Cryptography, Database & Data Mining, Advanced Software Engineering  
+  - Course instructor: **Wanqi Yang** (yangwq\[at\]njnu.edu.cn)  
+  - Advisor: **Xiaojun Qian** (05160\[at\]njnu.edu.cn)  
+  - Major awards: *Nominated for School Scholarship (Fully Funded); Best International Student*
 
-- **B.Eng. in Computer Science & Technology**  
-  *Henan Polytechnic University, China*  
-  *Graduated: [July 2021]*
+- **B.Sc. in Computer Science and Engineering (Computer Science & Technology)**  
+  *Henan Polytechnic University, Jiaozuo, China*  
+  *September 2017 – September 2021*  
+  - Dissertation: **Movie Recommendation with Collaborative Filtering Based on Recommender Systems**  
+  - Selected coursework: Introduction to AI, Machine Learning & Pattern Recognition, Digital Image Processing & Robot Vision, Digital Signal Processing, Distributed Systems, Introduction to Robotics, Advanced Robotics, Machine Vision, OOP (Java), Control System Design, Advanced Mathematics I & II, Probability and Mathematical Statistics  
+  - Advisor: **He Jun Yi**  
+  - Major awards: *2019–2021 Nominated for Provincial Scholarship; Second Prize – Best Essay Writer; Participant Award – Jiangsu Taiqi Competition*
+
+- **Higher Secondary School Certificate (HSC), Science**  
+  *Ideal College, Dhaka, Bangladesh*  
+  *2014 – 2016*  
+  - GPA: **4.67 / 5.00**
+
+- **Secondary School Certificate (SSC), Science**  
+  *Fulgazi Govt. Pilot High School, Feni, Bangladesh*  
+  *2009 – 2014*  
+  - GPA: **5.00 / 5.00**
 
 ---
 
@@ -68,20 +84,60 @@ You can download my full CV here:
 
 ## Technical Skills
 
-- **Programming:** Python, C/C++, Bash  
-- **ML / DL:** PyTorch, basic TensorFlow, scikit-learn  
-- **Robotics:** ROS, Gazebo, RViz, Agilex platforms (e.g., Bunker MINI)  
-- **Tools:** Git/GitHub, Linux, Docker, Jupyter, VS Code  
-- **Testing / QA:** Basic experience with Selenium / Playwright / performance testing tools  
+- **Programming & Scripting**  
+  Python, C/C++, Bash, Java, MATLAB (basic)
+
+- **Machine Learning & AI**  
+  Deep Reinforcement Learning (DQN, Double-DQN, PPO), Supervised Learning, CNNs, Bayesian Regression, Kalman Filtering, Scikit-learn
+
+- **Deep Learning Frameworks**  
+  PyTorch, TensorFlow (basic), Keras (basic)
+
+- **Robotics & Autonomous Systems**  
+  ROS (Robot Operating System), Gazebo, RViz, Agilex Bunker MINI / mobile robot platforms, sensor simulation, robot navigation and obstacle avoidance
+
+- **Computer Vision**  
+  YOLO-based object detection and tracking, OpenCV, video-based perception pipelines
+
+- **Software Testing & QA**  
+  Test case design, functional testing, API testing concepts, basic performance and load testing; familiarity with tools such as Selenium / Playwright and JMeter / Locust
+
+- **Data & Backend Tools**  
+  SQL basics, database concepts, data preprocessing, CSV/JSON handling, simple REST API interaction
+
+- **Development Tools & Workflow**  
+  Git & GitHub, Linux (Ubuntu), VS Code, Jupyter Notebook, Docker (basic), GitHub Pages & Jekyll for academic websites
 
 ---
-
 ## Awards & Activities
 
-- Completed 22/22 Master’s course credits with excellent academic performance at NJNU.  
-- Co-author on peer-reviewed journal articles in robotics and AI.  
-- Volunteer and organizer in student events and academic conferences.
+- **Academic & Research**
+  - Co-authored **“Multi-point Navigation Method for Intelligent Inspection Robots”**, *Journal of Computing & Electronic Information Management*, 2024.  
+  - Co-authored **“Credit Approval Decision Using Machine Learning Algorithms”**, *IEEE ICRITO 2022*.  
+  - Completed **22/22 master’s course credits** at NJNU with strong academic performance.  
+  - Joined the **Institute of Artificial Intelligence Lab, NJNU** (2024) under the supervision of Prof. Xiaojun Qian.  
+  - Joined the **Consortium Research Center (CRC)** as a Junior Research Assistant (July 2021) and later as part of the R&D team (January 2024).
 
+- **Scholarships & Honors**
+  - **Nominated for School Scholarship (Fully Funded)** at NJNU.  
+  - **Best International Student** recognition at NJNU.  
+  - **Nominated for Provincial Scholarship** (2019–2021) at Henan Polytechnic University.  
+  - **Second Prize – Best Essay Writer** at Henan Polytechnic University.  
+  - Participant Award in the **Jiangsu Taiqi Competition**.
+
+- **Conferences & Events**
+  - Attended the **6th Jiangsu Artificial Intelligence Conference** (2023), where your group presented a poster on robot navigation.  
+  - Participated in **Joyful Journey to Literary Jiangsu 2024**, submitting a storytelling/videography entry.  
+  - Took part in academic seminars and lab meetings focused on AI, robotics, and multi-robot systems.
+
+- **Teaching, Mentoring & Service**
+  - Guided undergraduate students in **research methodology, literature review, and hands-on experiments** in AI and robotics (2023).  
+  - Conducted an informal **training session on operating the Bunker MINI robot** (NoMachine environment) with colleagues and juniors (April 2025).  
+  - Assisted with **international student reception and academic orientation** at NJNU (March 2025).
+
+- **Current Goal**
+  - Actively seeking opportunities to pursue a **PhD starting in Fall 2026**,  
+    with a focus on **AI, multi-robot systems, or autonomous vehicles**.
 ---
 
 ## Languages
