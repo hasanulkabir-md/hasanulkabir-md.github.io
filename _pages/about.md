@@ -49,6 +49,5 @@ Previously, I completed my **B.Sc. in Computer Science and Technology** at **Hen
 
 ## Contact
 
-- 📍 Nanjing, China  
-- 📧 [hasanul.kabir09@gmail.com](mailto:hasanul.kabir09@gmail.com)  
-- 💻 [github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
+- Nanjing, China  
+- hasanul.kabir09[at]gmail.com
