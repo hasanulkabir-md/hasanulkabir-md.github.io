@@ -5,87 +5,78 @@ permalink: /projects/
 author_profile: true
 ---
 
-Here is a selection of my main projects. More details are available on my GitHub and research pages.
+Here is a selection of my main projects. More details are available on my GitHub pages.
 
 ---
+
 ### Video-based Obstacle Avoidance using Deep Reinforcement Learning (DRL)
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/drl-obstacle-avoidance.jpg" alt="DRL obstacle avoidance thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    An end-to-end obstacle avoidance system for autonomous mobile robots using real-time video.  
-    YOLO handles dynamic obstacle detection, while DRL agents (DQN/PPO) learn safe navigation policies in ROS + Gazebo.
+![Video-based obstacle avoidance thumbnail](/images/drl-obstacle-avoidance.jpg){: width="120" .align-left }
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+An end-to-end obstacle avoidance system for autonomous mobile robots using real-time video.  
+A **YOLO-based detector** provides perception, while **DQN/PPO** learn collision-free navigation policies in **ROS + Gazebo**.
+
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 
 ---
 
 ### Kalman Filter for Motion Tracking
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/kalman-filter-tracking.jpg" alt="Kalman filter thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    Demonstrates how a 2D Kalman Filter can smooth noisy position measurements and estimate velocity.  
-    Useful for stable motion tracking and sensor fusion in robotics and navigation tasks.
+![Kalman filter thumbnail](/images/kalman-filter-tracking.jpg){: width="120" .align-left }
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+Implements a 2D **Kalman Filter** to smooth noisy position measurements and estimate velocity.  
+Improves trajectory stability and tracking accuracy for mobile robots and navigation tasks.
+
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 
 ---
 
 ### Bayesian Regression for Noisy Sensor Data
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/bayesian-regression-sensors.jpg" alt="Bayesian regression thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    A Bayesian linear regression framework to model noisy sensor readings with uncertainty.  
-    Produces predictive distributions with credible intervals for more trustworthy sensor-based decisions.
+![Bayesian regression thumbnail](/images/bayesian-regression-sensors.jpg){: width="120" .align-left }
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+A **Bayesian linear regression** framework for modeling sensor readings with uncertainty.  
+Produces predictive distributions with credible intervals to make sensor-based decisions more reliable.
+
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 
 ---
 
 ### Classifying Fashion-MNIST Images with CNNs
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/fashion-mnist-cnn.jpg" alt="Fashion MNIST CNN thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    A custom CNN model trained on the Fashion-MNIST dataset to classify clothing items.  
-    Achieved around 90.66% test accuracy using Adam optimizer and careful preprocessing.
+![Fashion MNIST CNN thumbnail](/images/fashion-mnist-cnn.jpg){: width="120" .align-left }
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+Custom **CNN** trained on the **Fashion-MNIST** dataset for clothing classification.  
+Achieves around **90.66% test accuracy**, strengthening practical skills in deep learning and model evaluation.
+
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 
 ---
 
 ### Attention-Enhanced Spatio-Temporal GCN for Air Quality Prediction
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/ae-stgcn-air-quality.jpg" alt="AE-STGCN air quality thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    Proposes an AE-STGCN model that fuses pollutant, meteorological, and POI data for air quality forecasting.  
-    Spatial–temporal attention highlights important regions and time intervals for better accuracy and interpretability.
+![Air quality AE-STGCN thumbnail](/images/ae-stgcn-air-quality.jpg){: width="120" .align-left }
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+Proposes an **Attention-Enhanced Spatio-Temporal GCN (AE-STGCN)** for air-quality forecasting.  
+Fuses pollutant, meteorological and POI data, using attention to focus on the most relevant regions and time steps.
+
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 
 ---
 
 ### Multi-point Navigation for Intelligent Inspection Robots
 
-<div style="display: flex; align-items: flex-start; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/images/inspection-thumb.jpg" alt="inspection robot thumbnail" style="width:110px; margin-right:15px; border-radius:6px;">
-  <div>
-    Navigation method for inspection robots to visit multiple waypoints efficiently in structured environments.  
-    Related to your published journal paper on multi-point navigation for intelligent inspection robots.
+Efficient navigation strategy for inspection robots visiting multiple waypoints under constraints.  
+Related to my journal paper in *Journal of Computing & Electronic Information Management (2024)* on multi-point navigation.
 
-    [GitHub Code](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
-  </div>
-</div>
+[View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
