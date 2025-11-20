@@ -11,18 +11,17 @@ You can download my full CV here:
 
 - [Download CV (PDF)](/cv.pdf)
 
----
 
-## Personal Information
+Personal Information
+======
 
 **Name:** Md Hasanul Kabir  
 **Nationality:** Bangladeshi  
 **Current Position:** Master’s student, Computer Science & Technology  
 **Institution:** Nanjing Normal University (NJNU), Nanjing, China  
 
----
-
-## Education
+Education
+======
 
 - **M.Sc. in Computer Science and Engineering (Computer Science & Technology)**  
   *Nanjing Normal University, Nanjing, China*  
@@ -51,25 +50,25 @@ You can download my full CV here:
   *2009 – 2014*  
   - GPA: **5.00 / 5.00**
 
----
-
-# Work experience
+Work experience
+======
 
 - **Junior Research Assistant** – Consortium Research Center (CRC)  
   *July 2021 – Present*  
   - Assisted in AI and robotics projects, data analysis, and experiments  
   - Helped supervise junior students and support research documentation
 
-## Research Interests
+Research Interests
+======
 
 - Deep Reinforcement Learning (DRL)  
 - Computer Vision and Video-based Perception (YOLO, detection & tracking)  
 - Autonomous Mobile Robots, Navigation & Obstacle Avoidance  
 - ROS / Gazebo Simulation and Intelligent Inspection Robots  
 
----
 
-# Publications
+Publications
+======
 
 - **Multi-point Navigation Method for Intelligent Inspection Robots**,  
   *Journal of Computing and Electronic Information Management*, 14(2):16–19, 2024.  
@@ -81,7 +80,8 @@ You can download my full CV here:
 
 ---
 
-## Projects
+Projects
+======
 
 - **Video-Based Dynamic Obstacle Avoidance using DRL (Master’s Thesis)**  
   - Integrated YOLO-based perception with DQN/Double-DQN/PPO policies in ROS/Gazebo.  
@@ -93,7 +93,8 @@ You can download my full CV here:
 
 ---
 
-## Technical Skills
+Technical Skills
+======
 
 - **Programming & Scripting**  
   Python, C/C++, Bash, Java, MATLAB (basic)
@@ -120,7 +121,8 @@ You can download my full CV here:
   Git & GitHub, Linux (Ubuntu), VS Code, Jupyter Notebook, Docker (basic), GitHub Pages & Jekyll for academic websites
 
 ---
-## Awards & Activities
+Awards & Activities
+======
 
 - **Academic & Research**
   - Co-authored **“Multi-point Navigation Method for Intelligent Inspection Robots”**, *Journal of Computing & Electronic Information Management*, 2024.  
@@ -151,7 +153,8 @@ You can download my full CV here:
     with a focus on **AI, multi-robot systems, or autonomous vehicles**.
 ---
 
-## Languages
+Languages
+======
 
 - **English:** Fluent (academic study and research in English)  
 - **Chinese:** HSK 3  
