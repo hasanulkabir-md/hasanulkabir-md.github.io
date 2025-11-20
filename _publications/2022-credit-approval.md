@@ -1,11 +1,11 @@
 ---
 title: "Credit Approval Decision Using Machine Learning Algorithms"
 collection: publications
-permalink: /publication/2022-credit-approval-ml
+permalink: /publications/2022-credit-approval
 date: 2022-08-01
 venue: "2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO)"
+paperurl: ""        # put the real link here later, or leave empty
 pubtype: "conference"
-
 authors: "Mridha, Krishna Dipayan Barua; Monir Shorna, Meghla; Nouman, Hasan Nouman; Md Hasanul Kabir; Singh, Ajay Vikram"
 doi: "10.1109/ICRITO56286.2022.9964942"
 paperurl: "/files/Paper2.pdf"
