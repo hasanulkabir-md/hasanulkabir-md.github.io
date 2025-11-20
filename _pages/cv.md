@@ -23,7 +23,6 @@ Personal Information
 **Institution:** Nanjing Normal University (NJNU), Nanjing, China  
 
 
-
 Education
 ======
 - **M.Sc. in Computer Science and Engineering (Computer Science & Technology)**  
@@ -54,15 +53,13 @@ Education
   - GPA: **5.00 / 5.00**
 
 
-
 Work experience
 ======
 - **Junior Research Assistant** – Consortium Research Center (CRC)  
   *July 2021 – Present*  
   - Assisted in AI and robotics projects, data analysis, and experiments  
   - Helped supervise junior students and supported research documentation
-
----
+  - 
 
 Research Interests
 ======
