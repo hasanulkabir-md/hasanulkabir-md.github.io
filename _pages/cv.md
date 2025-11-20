@@ -75,13 +75,13 @@ Research Interests
 
 Publications
 ======
-- **Multi-point Navigation Method for Intelligent Inspection Robots**  
-  *Journal of Computing and Electronic Information Management*, 14(2): 16–19, 2024.  
-  Wang, Zhicheng; Wang, Qingzhang; Shen, Lingling; Qian, Xiaojun; Cui, Jianhua; Zeng, Liwei; Ye, Zewei; **Md Hasanul Kabir**.
 
-- **Credit Approval Decision Using Machine Learning Algorithms**  
-  *2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO)*.  
-  Mridha, Krishna Dipayan Barua; Meghla Monir Shorna; Hasan Nouman Nouman; **Md Hasanul Kabir**; Ajay Vikram Singh.
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
 
 
 
