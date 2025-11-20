@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: cv
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
@@ -53,6 +53,13 @@ You can download my full CV here:
 
 ---
 
+# Work experience
+
+- **Junior Research Assistant** – Consortium Research Center (CRC)  
+  *July 2021 – Present*  
+  - Assisted in AI and robotics projects, data analysis, and experiments  
+  - Helped supervise junior students and support research documentation
+
 ## Research Interests
 
 - Deep Reinforcement Learning (DRL)  
@@ -62,11 +69,15 @@ You can download my full CV here:
 
 ---
 
-## Publications
+# Publications
 
-- **Multi-point Navigation Method for Intelligent Inspection Robots**  
-  *Journal of Computing & Electronic Information Management, 2024*  
-  Co-author.
+- **Multi-point Navigation Method for Intelligent Inspection Robots**,  
+  *Journal of Computing and Electronic Information Management*, 14(2):16–19, 2024.  
+  Wang, Zhicheng; Wang, Qingzhang; Shen, Lingling; Qian, Xiaojun; Cui, Jianhua; Zeng, Liwei; Ye, Zewei; **Md Hasanul Kabir**.
+
+- **Credit Approval Decision Using Machine Learning Algorithms**,  
+  *2022 10th International Conference on Reliability, Infocom Technologies and Optimization (ICRITO)*.  
+  Mridha, Krishna Dipayan Barua; Meghla Monir Shorna; Hasan Nouman Nouman; **Md Hasanul Kabir**; Ajay Vikram Singh.
 
 ---
 
