@@ -1,10 +1,10 @@
 ---
-layout: cv
+layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv.html
+  - /resume
 ---
 
 You can download my full CV here:
