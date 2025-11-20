@@ -80,18 +80,14 @@ Publications
 </ul>
 
 
-
-
 Projects
 ======
 
-{% include base_path %}
-
-Here is a selection of my main projects.
-
+<ul>
 {% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
+</ul>
 
 
 
