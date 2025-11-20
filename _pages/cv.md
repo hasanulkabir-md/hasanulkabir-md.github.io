@@ -87,13 +87,14 @@ Publications
 
 Projects
 ======
-- **Video-Based Dynamic Obstacle Avoidance using DRL (Master’s Thesis)**  
-  - Integrated YOLO-based perception with DQN/Double-DQN/PPO policies in ROS/Gazebo.  
-  - Focus on collision-free navigation in dynamic environments.
 
-- **E-commerce Performance Testing Framework**  
-  - Designed and implemented a load-testing framework using Python and tools such as Locust/JMeter.  
-  - Evaluated API latency, throughput, and error rates under different traffic patterns.
+{% include base_path %}
+
+Here is a selection of my main projects.
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
