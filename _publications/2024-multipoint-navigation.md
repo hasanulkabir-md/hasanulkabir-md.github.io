@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/2024-multipoint-navigation
 date: 2024-06-01
 venue: "Journal of Computing & Electronic Information Management"
-paperurl: ""        # put the real link here later, or leave empty
 pubtype: "journal"
 citation: "Md. Hasanul Kabir et al., \"Multi-point Navigation Method for Intelligent Inspection Robots,\" Journal of Computing & Electronic Information Management, 2024."
 doi: "10.54097/1zjue56e"
