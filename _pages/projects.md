@@ -20,7 +20,6 @@ A **YOLO-based detector** provides perception, while **DQN/PPO** learn collision
 
 {: .clear }
 
----
 
 ### Kalman Filter for Motion Tracking
 
@@ -33,7 +32,6 @@ Improves trajectory stability and tracking accuracy for mobile robots and naviga
 
 {: .clear }
 
----
 
 ### Bayesian Regression for Noisy Sensor Data
 
@@ -46,7 +44,6 @@ Produces predictive distributions with credible intervals to make sensor-based d
 
 {: .clear }
 
----
 
 ### Classifying Fashion-MNIST Images with CNNs
 
@@ -59,7 +56,6 @@ Achieves around **90.66% test accuracy**, strengthening practical skills in deep
 
 {: .clear }
 
----
 
 ### Attention-Enhanced Spatio-Temporal GCN for Air Quality Prediction
 
@@ -71,8 +67,6 @@ Fuses pollutant, meteorological and POI data, using attention to focus on the mo
 [View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
 
 {: .clear }
-
----
 
 ### Multi-point Navigation for Intelligent Inspection Robots
 
