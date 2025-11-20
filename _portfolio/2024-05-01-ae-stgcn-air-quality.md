@@ -3,7 +3,8 @@ title: "Attention-Enhanced Spatio-Temporal GCN for Air Quality Prediction"
 collection: portfolio
 permalink: /portfolio/ae-stgcn-air-quality
 date: 2024-05-01
-excerpt: "AE-STGCN model combining spatial-temporal attention with graph convolutions for air quality forecasting."
+venue: "Research project, NJNU"
+excerpt: "AE-STGCN model combining spatial–temporal attention with graph convolutions for air quality forecasting."
 image: /images/ae-stgcn-air-quality.jpg
 github: "https://github.com/hasanulkabir-md"
 ---
