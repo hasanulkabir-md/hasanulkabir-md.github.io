@@ -19,9 +19,6 @@ Personal Information
 ======
 **Name:** Md Hasanul Kabir  
 **Nationality:** Bangladeshi  
-**Current Position:** Master’s student, Computer Science & Technology  
-**Institution:** Nanjing Normal University (NJNU), Nanjing, China  
-
 
 Education
 ======
@@ -90,7 +87,6 @@ Projects
 </ul>
 
 
-
 Technical Skills
 ======
 - **Programming & Scripting**  
@@ -149,9 +145,13 @@ Awards & Activities
   - Actively seeking opportunities to pursue a **PhD starting in Fall 2026**, with a focus on **AI, multi-robot systems, or autonomous vehicles**.
 
 
-
 Languages
 ======
 - **English:** Fluent (academic study and research in English)  
 - **Chinese:** HSK 3  
 - **Bangla:** Native
+
+Current Goal
+======
+I am actively looking for opportunities to pursue a **PhD starting in Fall 2026**,  
+with a focus on **AI, multi-robot systems, or autonomous vehicles**.
