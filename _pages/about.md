@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: ""
-layout: single
+title: "Personal academic websites"
 author_profile: true
 redirect_from:
   - /about/
@@ -29,8 +28,6 @@ Previously, I completed my **B.Sc. in Computer Science and Technology** at **Hen
 > 🔍 **I am actively looking for opportunities to pursue a PhD starting in Fall 2026,  
 > with a focus on AI, multi-robot systems, or autonomous vehicles.**
 
----
-
 ## News & Activities
 
 - **April 2025** – Started working on **video-based dynamic obstacle avoidance** using Deep RL and ROS.  
@@ -45,9 +42,7 @@ Previously, I completed my **B.Sc. in Computer Science and Technology** at **Hen
 - **October 2022** – First co-authored the paper *“Credit Approval Decision using Machine Learning Algorithms.”*  
 - **July 2021** – Joined **CRC** as a **Junior Research Assistant**.
 
----
+For more info
+------
 
-## Contact
-
-- Nanjing, China  
-- hasanul.kabir09[at]gmail.com
+Send Hi at this adrress: hasanul.kabir09[at]gmail.com
