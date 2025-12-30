@@ -56,7 +56,6 @@ Work experience
   *July 2021 – Present*  
   - Assisted in AI and robotics projects, data analysis, and experiments  
   - Helped supervise junior students and supported research documentation
-  - 
 
 Research Interests
 ======
@@ -150,8 +149,3 @@ Languages
 - **English:** Fluent (academic study and research in English)  
 - **Chinese:** HSK 3  
 - **Bangla:** Native
-
-Current Goal
-======
-I am actively looking for opportunities to pursue a **PhD starting in Fall 2026**,  
-with a focus on **AI, multi-robot systems, or autonomous vehicles**.
