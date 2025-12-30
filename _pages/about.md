@@ -45,4 +45,4 @@ Previously, I completed my **B.Sc. in Computer Science and Technology** at **Hen
 For more info
 ------
 
-Send Hi at this adrress: hasanul.kabir09[at]gmail.com
+Send Hi at this address: hasanul.kabir09[at]gmail.com
