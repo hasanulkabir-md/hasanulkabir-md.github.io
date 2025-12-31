@@ -15,7 +15,7 @@ title_separator          : "-"
 description: "Hasanul Kabir's academic portfolio"
 url: "https://hasanulkabir-md.github.io"
 baseurl: ""
-repository: "hasanulkabir-md/hasanulkabir-md.github.io"
+repository: "https://hasanulkabir-md.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -30,6 +30,7 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
   email            : "hasanul.kabir09@gmail.com"
 
   # Academic websites
+  researchgate     : "https://www.researchgate.net/profile/Md-Kabir-107?ev=hdr_xprf"
   googlescholar    : "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0009-0004-3180-819X"
   academia         : "https://njnu.academia.edu/MdHasanulKabir"
@@ -38,7 +39,6 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
   impactstory      : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Md-Kabir-107?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -50,8 +50,8 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : #
-  twitter          : #
+  linkedin         : # url
+  twitter          : # url
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
@@ -62,7 +62,7 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : #
+  linkedin         : # url
   mastodon         : # URL
   medium           : #
   pinterest        : # Username
@@ -70,7 +70,7 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"https://x.com/hasanulkabir_md?s=21"
+  twitter          : # url
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
