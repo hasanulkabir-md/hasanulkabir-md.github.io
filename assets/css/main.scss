@@ -42,9 +42,13 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Push top navigation menu slightly to the right (desktop only) */
+/* ===============================
+   Custom navbar alignment override
+   AcademicPages / Minimal Mistakes
+   =============================== */
+
 @media (min-width: 1024px) {
-  .masthead__menu {
-    padding-left: 2.5rem;
+  .greedy-nav .visible-links {
+    margin-left: auto;
   }
 }
