@@ -4,7 +4,7 @@
     "email": "hasanul.kabir09@gmail.com",
     "phone": "+8618602552671",
     "website": "https://hasanulkabir-md.github.io/",
-    "summary": "Prospective PhD candidate and Master’s student in Computer Science and Technology with research interests in coding theory, cryptography, network security, and secure communication systems.",
+    "summary": "Prospective PhD candidate and Master’s student in Computer Science and Technology with research interests in Mobile robots, Path planning, Multi agent robots, Reinforcement Learning, Machine Learning, network security, and secure communication systems.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
@@ -66,7 +66,7 @@
       "studyType": "BSc",
       "startDate": "2017-09-01",
       "endDate": "2021-06-01",
-      "gpa": "3.36",
+      "gpa": "85%",
       "courses": []
     }
   ],
@@ -76,7 +76,6 @@
       "name": "Programming",
       "keywords": [
         "Python",
-        "R",
         "Java",
         "JavaScript",
         "HTML",
