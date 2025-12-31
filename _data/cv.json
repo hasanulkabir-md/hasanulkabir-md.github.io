@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Md Hasanul Kabir",
+    "email": "hasanul.kabir09@gmail.com",
+    "phone": "+8618602552671",
+    "website": "https://hasanulkabir-md.github.io/",
+    "summary": "Prospective PhD candidate and Master’s student in Computer Science and Technology with research interests in coding theory, cryptography, network security, and secure communication systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
     "profiles": [
       {
@@ -19,134 +19,184 @@
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "GitHub",
+        "username": "hasanulkabir-md",
+        "url": "https://github.com/hasanulkabir-md"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "hasanulkabir-md",
+        "url": "https://linkedin.com/in/hasanulkabir-md/"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "position": "Research Assistant",
+      "name": "Consortium Research Center",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2021-08-09",
+      "endDate": "2024-02-06",
+      "summary": "Assisted in research data collection, analysis, and interpretation; contributed to project design, technical reports, and collaborative research operations."
+    },
+    {
+      "position": "Web Security Trainee",
+      "name": "Cyber Security Arena",
+      "location": "Dhaka, Bangladesh",
+      "startDate": "2020-12-31",
+      "endDate": "2021-04-03",
+      "summary": "Worked on cybersecurity projects using Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite, and OWASP ZAP, applying ethical hacking techniques."
+    }
+  ],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Nanjing Normal University",
+      "area": "Computer Science & Technology",
+      "studyType": "MSc",
+      "startDate": "2023-09-01",
+      "endDate": "2026-07-15",
+      "gpa": "81%",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Henan Polytechnic University",
+      "area": "Computer Science & Technology",
+      "studyType": "BSc",
+      "startDate": "2017-09-01",
+      "endDate": "2021-06-01",
+      "gpa": "3.36",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "R",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "keywords": [
+        "Ethical Hacking",
+        "Kali Linux",
+        "Nmap",
+        "Wireshark",
+        "Metasploit",
+        "OWASP ZAP"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "keywords": [
+        "Deep Reinforcement Learning",
+        "YOLO",
+        "CNN",
+        "Bayesian Regression"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Bangla",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C1 (Listening, Reading), B2 (Speaking, Writing)"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Secure Communication Systems"
+    },
+    {
+      "name": "Autonomous Robots"
+    },
+    {
+      "name": "Network Security"
+    }
+  ],
+
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Multi-point Navigation Method for Intelligent Inspection Robots",
+      "publisher": "Journal of Computing and Electronic Information Management",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "Developed a ROS-based multi-point autonomous navigation system integrating SLAM, AMCL localization, and DWA obstacle avoidance."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Credit Approval Decision using Machine Learning Algorithms",
+      "publisher": "IEEE ICRITO",
+      "releaseDate": "2022",
+      "website": "",
+      "summary": "Proposed a machine learning–based approach for automated loan approval using classification algorithms on real-world datasets."
     }
   ],
+
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Research on Video-Based Obstacle Avoidance Using Deep Reinforcement Learning",
+      "event": "Nanjing Normal University",
+      "date": "",
+      "location": "Nanjing, China",
       "description": ""
     }
   ],
+
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "_comment": "No explicit teaching experience listed in CV"
     }
   ],
+
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Video-based Obstacle Avoidance using Deep Reinforcement Learning",
+      "category": "project",
+      "date": "2025-11-24",
+      "url": "https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance",
+      "description": "Developed a real-time obstacle avoidance framework integrating YOLO-based perception with DRL in ROS2 and Gazebo."
+    },
+    {
+      "name": "Movie Recommendation with Collaborative Filtering",
+      "category": "project",
+      "date": "2021-05-04",
+      "url": "https://www.academia.edu/87584319/",
+      "description": "Developed and compared collaborative filtering approaches for recommender systems."
+    },
+    {
+      "name": "2D Object Tracking Using Kalman Filter",
+      "category": "project",
+      "date": "2024-04-01",
+      "url": "https://github.com/hasanulkabir-md/kalman-filter-tracking",
+      "description": "Implemented Kalman filtering for motion tracking under noisy measurements."
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Prof. Xiaojun Qian",
+      "reference": "Supervisor at Nanjing Normal University"
+    },
+    {
+      "name": "Prof. Wangqi Yang",
+      "reference": "Instructor at Nanjing Normal University"
+    },
+    {
+      "name": "A/Prof. Qian Gao",
+      "reference": "Co-supervisor at Nanjing Normal University"
     }
   ]
 }
