@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "Md Hasanul Kabir"
 name: &name "Md Hasanul Kabir"
-description: ""
+title_separator          : "-"
+description: "Hasanul Kabir's academic portfolio"
 url: "https://hasanulkabir-md.github.io"
 baseurl: ""
 repository: "hasanulkabir-md/hasanulkabir-md.github.io"
@@ -21,28 +22,21 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-author:
   avatar           : "Profile.png"
   name             : "Md Hasanul Kabir"
+  pronouns         : "he/him"  
   bio              : "Master’s student in Computer Science & Technology"
   location         : "Nanjing, China"
   employer         : "Nanjing Normal University"
   email            : "hasanul.kabir09@gmail.com"
 
-  github           : "hasanulkabir-md"
+  # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0009-0004-3180-819X"
-  linkedin         : "https://www.linkedin.com/in/hasanulkabir-md/"
-  twitter          : "hasanulkabir-md"
-
-
-  # Academic websites
   academia         : "https://njnu.academia.edu/MdHasanulKabir"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-3180-819X"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Md-Kabir-107?ev=hdr_xprf"
@@ -57,6 +51,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : "https://www.linkedin.com/in/hasanulkabir-md/"
+  twitter          : "hasanulkabir-md"
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
