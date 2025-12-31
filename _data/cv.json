@@ -132,7 +132,7 @@
       "name": "Multi-point Navigation Method for Intelligent Inspection Robots",
       "publisher": "Journal of Computing and Electronic Information Management",
       "releaseDate": "2024",
-      "website": "",
+      "website": "files/Paper1.pdf",
       "summary": "Developed a ROS-based multi-point autonomous navigation system integrating SLAM, AMCL localization, and DWA obstacle avoidance."
     },
     {
