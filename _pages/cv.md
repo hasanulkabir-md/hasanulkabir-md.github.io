@@ -6,11 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Personal Information
-======
-**Name:** Md Hasanul Kabir  
-**Nationality:** Bangladeshi  
-
 Education
 ======
 - **M.Sc. in Computer Science and Engineering (Computer Science & Technology)**  
