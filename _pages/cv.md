@@ -1,20 +1,11 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-You can download my full CV here:
-
-- [Download CV (PDF)](/cv.pdf)
-
-
-
 Personal Information
 ======
 **Name:** Md Hasanul Kabir  
