@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
-
 I am a final-year Master’s student in **Computer Science and Technology** at  
 **Nanjing Normal University (NJNU), Nanjing, China**. My research focuses on
 **video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robots.
