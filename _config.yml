@@ -20,7 +20,6 @@ repository: "hasanulkabir-md/hasanulkabir-md.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
   # Biographic information
   avatar           : "Profile.png"
   name             : "Md Hasanul Kabir"
@@ -46,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"https://github.com/hasanulkabir-md"
+  github           : "https://github.com/hasanulkabir-md"
   kaggle           : "https://www.kaggle.com/mdhasanulkabir"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
