@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Push top navigation menu slightly to the right (desktop only) */
+@media (min-width: 1024px) {
+  .masthead__menu {
+    padding-left: 2.5rem;
+  }
+}
