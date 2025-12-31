@@ -1,7 +1,30 @@
-<footer class="page__footer">
-  <div class="page__footer-copyright">
-    © 2025 Md Hasanul Kabir ·
-    <a href="https://github.com/hasanulkabir-md">GitHub</a>
-  </div>
-</footer>
+{% include base_path %}
 
+{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    {% unless site.atom_feed.hide %}
+      <li>
+        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
+          <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+        </a>
+      </li>
+    {% endunless %}
+  </ul>
+</div>
+{% endif %}
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+  Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;
+  <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a> (Minimal Mistakes theme).<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}.
+</div>
