@@ -23,8 +23,8 @@ author:
   # Biographic information
 author:
   avatar           : "Profile.png"
-  name             : "Md. Hasanul Kabir"
-  bio              : "Master’s student in Computer Science & Technology at Nanjing Normal University."
+  name             : "Md Hasanul Kabir"
+  bio              : "Master’s student in Computer Science & Technology"
   location         : "Nanjing, China"
   employer         : "Nanjing Normal University"
   email            : "hasanul.kabir09@gmail.com"
@@ -44,7 +44,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-3180-819X"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Md-Kabir-107?ev=hdr_xprf"
   scopus           : # URL
 
