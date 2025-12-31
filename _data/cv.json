@@ -132,14 +132,14 @@
       "name": "Multi-point Navigation Method for Intelligent Inspection Robots",
       "publisher": "Journal of Computing and Electronic Information Management",
       "releaseDate": "2024",
-      "website": "files/Paper1.pdf",
+      "website": "https://hasanulkabir-md.github.io/files/Paper1.pdf",
       "summary": "Developed a ROS-based multi-point autonomous navigation system integrating SLAM, AMCL localization, and DWA obstacle avoidance."
     },
     {
       "name": "Credit Approval Decision using Machine Learning Algorithms",
       "publisher": "IEEE ICRITO",
       "releaseDate": "2022",
-      "website": "",
+      "website": "https://hasanulkabir-md.github.io/files/Paper2.pdf",
       "summary": "Proposed a machine learning–based approach for automated loan approval using classification algorithms on real-world datasets."
     }
   ],
