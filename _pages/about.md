@@ -7,15 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Master’s student in **Computer Science and Technology** at  
-**Nanjing Normal University (NJNU), Nanjing, China**.
-
-My research centers on **video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robotic systems, with an emphasis on perception-driven decision-making in dynamic environments.
-
-This site provides a concise overview of my academic background, research activities, and recent work.  
-Detailed descriptions of my projects and publications are available on the **[Projects](/projects/)** and **[Publications](/publications/)** pages.
-
-Under the supervision of **Professor Xiaojun Qian**, my work spans the following areas:
+I am a final-year Master’s student in **Computer Science and Technology** at **Nanjing Normal University (NJNU), Nanjing, China**. My research centers on **video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robotic systems, with an emphasis on perception-driven decision-making in dynamic environments. This site provides a concise overview of my academic background, research activities, and recent work. Detailed descriptions of my projects and publications are available on the **[Projects](/projects/)** and **[Publications](/publications/)** pages. Under the supervision of **Professor Xiaojun Qian**, my work spans the following areas:
 
 - **Artificial Intelligence**
 - **Machine Learning**
