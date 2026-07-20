@@ -7,20 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Master’s student in **Computer Science and Technology** at **Nanjing Normal University (NJNU), Nanjing, China**. My research centers on **video-based dynamic obstacle avoidance using deep reinforcement learning (DRL)** for autonomous robotic systems, with an emphasis on perception-driven decision-making in dynamic environments. This site provides a concise overview of my academic background, research activities, and recent work. Detailed descriptions of my projects and publications are available on the **[Projects](/projects/)** and **[Publications](/publications/)** pages. Under the supervision of **Professor Xiaojun Qian**, my work spans the following areas:
+I recently completed my M.Sc. in **Computer Science and Technology** at **Nanjing Normal University (NJNU)**, where I conducted research under the supervision of **Professor Xiaojun Qian**. I earned my B.Sc. in Computer Science and Technology from **Henan Polytechnic University** in 2021.
 
-- **Artificial Intelligence**
-- **Machine Learning**
-- **Autonomous Systems**
-- **Software Testing**
+My research interests span Artificial Intelligence, Machine Learning, Deep Learning, Autonomous Systems, and Software Testing. My recent work focuses on vision-based social navigation, dynamic obstacle avoidance using deep reinforcement learning, and trajectory prediction for autonomous robots.
+
+Beyond robotics, I am also interested in applying AI and computer vision to interdisciplinary domains such as **plant disease detection**, **precision agriculture**, and **medical image analysis**. I have received a **PhD admission offer from Chongqing University** and plan to begin my doctoral studies soon. Detailed descriptions of my projects and publications are available on the **[Projects](/projects/)** and **[Publications](/publications/)** pages. Under the supervision of **Professor Xiaojun Qian**, my work spans the following areas:
+
+### Research Interests
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Computer Vision
+- Deep Reinforcement Learning
+- Autonomous Robots & Autonomous Vehicles
+- Multi-Agent Reinforcement Learning
+- Human-Robot Interaction
+- Safe & Trustworthy AI
+- Trajectory Prediction
+- Plant Disease Detection
+- Precision Agriculture
+- Medical Image Analysis
 
 Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in July 2021.
 
-> 🔍 **I am actively seeking PhD opportunities starting in Fall 2026, with a research focus on artificial intelligence, multi-robot systems, or autonomous vehicles.**
-
+> 🎓 **Received a PhD admission offer from Chongqing University. I will begin my doctoral studies soon.**
 ## News & Activities
 
-- **April 2025** – Began focused research on **video-based dynamic obstacle avoidance** using Deep RL and ROS.  
+- **July 2026** — Received a PhD admission offer from Chongqing University.
+- **June 2026** — Successfully graduated with an M.Sc. in Computer Science and Technology.
+- **May 2026** — Submitted the IEEE RA-L manuscript *Calibration and Safety Audit of Transformer-Based Trajectory Prediction for Dense-Crowd Navigation*.
+- **May 2026** — Successfully defended my master's thesis *SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context*.
+- **May 2025** — Began research on *SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context*.
+- **April 2025** — Started research on video-based dynamic obstacle avoidance using Deep Reinforcement Learning and ROS.
 - **April 2025** – Led a hands-on session on operating the **Bunker Mini** mobile robot via a NoMachine environment.  
 - **March 2025** – Assisted with international student reception and academic orientation at NJNU.  
 - **September 2024** – Co-authored the paper *“Multi-point Navigation Method for Intelligent Inspection Robots.”*  
