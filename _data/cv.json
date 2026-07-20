@@ -4,32 +4,35 @@
     "email": "hasanul.kabir09@gmail.com",
     "phone": "+8618602552671",
     "website": "https://hasanulkabir-md.github.io/",
-    "summary": "Prospective PhD candidate and Master’s student in Computer Science and Technology with research interests in Mobile robots, Path planning, Multi agent robots, Reinforcement Learning, Machine Learning, network security, and secure communication systems.",
-    "location": {
+"summary": "M.Sc. graduate in Computer Science and Technology from Nanjing Normal University with research interests in Artificial Intelligence, Computer Vision, Autonomous Robots, Multi-Agent Systems, Deep Reinforcement Learning, Machine Learning, Software Testing, Medical Image Analysis, and AI for Precision Agriculture. Received a PhD admission offer from Chongqing University and will begin doctoral studies soon."    "location": {
       "address": "",
       "postalCode": "",
       "city": "Nanjing",
       "countryCode": "CN",
       "region": "Jiangsu"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
-      },
-      {
-        "network": "GitHub",
-        "username": "hasanulkabir-md",
-        "url": "https://github.com/hasanulkabir-md"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "hasanulkabir-md",
-        "url": "https://linkedin.com/in/hasanulkabir-md/"
-      }
-    ]
+   "profiles": [
+  {
+    "network": "Google Scholar",
+    "username": "xG7C5mcAAAAJ",
+    "url": "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
   },
+  {
+    "network": "ORCID",
+    "username": "https://orcid.org/0009-0004-3180-819X",
+    "url": "https://orcid.org/0009-0004-3180-819X"
+  },
+  {
+    "network": "GitHub",
+    "username": "hasanulkabir-md",
+    "url": "https://github.com/hasanulkabir-md"
+  },
+  {
+    "network": "LinkedIn",
+    "username": "hasanulkabir-md",
+    "url": "https://linkedin.com/in/hasanulkabir-md/"
+  }
+],
 
   "work": [
     {
@@ -54,10 +57,10 @@
     {
       "institution": "Nanjing Normal University",
       "area": "Computer Science & Technology",
-      "studyType": "MSc",
+      "studyType": "Master",
       "startDate": "2023-09-01",
       "endDate": "2026-07-15",
-      "gpa": "81%",
+      "gpa": "84.5%",
       "courses": []
     },
     {
@@ -71,38 +74,70 @@
     }
   ],
 
-  "skills": [
-    {
-      "name": "Programming",
-      "keywords": [
-        "Python",
-        "Java",
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Cybersecurity",
-      "keywords": [
-        "Ethical Hacking",
-        "Kali Linux",
-        "Nmap",
-        "Wireshark",
-        "Metasploit",
-        "OWASP ZAP"
-      ]
-    },
-    {
-      "name": "Machine Learning & AI",
-      "keywords": [
-        "Deep Reinforcement Learning",
-        "YOLO",
-        "CNN",
-        "Bayesian Regression"
-      ]
-    }
-  ],
+ "skills": [
+  {
+    "name": "Programming",
+    "keywords": [
+      "Python",
+      "C++",
+      "Java",
+      "JavaScript",
+      "MATLAB",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Artificial Intelligence",
+    "keywords": [
+      "Machine Learning",
+      "Deep Learning",
+      "Deep Reinforcement Learning",
+      "Computer Vision",
+      "PyTorch",
+      "TensorFlow",
+      "OpenCV",
+      "YOLO",
+      "CNN",
+      "Transformer",
+      "Vision Transformer"
+    ]
+  },
+  {
+    "name": "Robotics",
+    "keywords": [
+      "ROS",
+      "ROS2",
+      "Gazebo",
+      "SLAM",
+      "Path Planning",
+      "Trajectory Prediction",
+      "Multi-Robot Systems",
+      "Autonomous Navigation"
+    ]
+  },
+  {
+    "name": "Software & Tools",
+    "keywords": [
+      "Git",
+      "Linux",
+      "Docker",
+      "WSL2",
+      "CUDA"
+    ]
+  },
+  {
+    "name": "Cybersecurity",
+    "keywords": [
+      "Ethical Hacking",
+      "Kali Linux",
+      "Nmap",
+      "Wireshark",
+      "Metasploit",
+      "OWASP ZAP"
+    ]
+  }
+]
 
   "languages": [
     {
@@ -115,19 +150,44 @@
     }
   ],
 
-  "interests": [
-    {
-      "name": "Secure Communication Systems"
-    },
-    {
-      "name": "Autonomous Robots"
-    },
-    {
-      "name": "Network Security"
-    }
-  ],
+"interests": [
+  {
+    "name": "Artificial Intelligence"
+  },
+  {
+    "name": "Autonomous Robotics"
+  },
+  {
+    "name": "Computer Vision"
+  },
+  {
+    "name": "Deep Reinforcement Learning"
+  },
+  {
+    "name": "Multi-Agent Systems"
+  },
+  {
+    "name": "Medical Image Analysis"
+  },
+  {
+    "name": "Plant Disease Detection"
+  },
+  {
+    "name": "Precision Agriculture"
+  },
+  {
+    "name": "Safe and Trustworthy AI"
+  }
+],
 
   "publications": [
+    {
+  "name": "Calibration and Safety Audit of Transformer-Based Trajectory Prediction for Dense-Crowd Navigation",
+  "publisher": "IEEE Robotics and Automation Letters (IEEE RA-L)",
+  "releaseDate": "2026",
+  "website": "",
+  "summary": "Submitted. Presents a calibration-aware framework for evaluating uncertainty, reliability, and safety of transformer-based trajectory prediction models in dense crowd navigation."
+}
     {
       "name": "Multi-point Navigation Method for Intelligent Inspection Robots",
       "publisher": "Journal of Computing and Electronic Information Management",
@@ -162,12 +222,19 @@
 
   "portfolio": [
     {
-      "name": "Video-based Obstacle Avoidance using Deep Reinforcement Learning",
-      "category": "project",
-      "date": "2025-11-24",
-      "url": "https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance",
-      "description": "Developed a real-time obstacle avoidance framework integrating YOLO-based perception with DRL in ROS2 and Gazebo."
-    },
+  "name": "SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context",
+  "category": "Master's Thesis",
+  "date": "2026-05-01",
+  "url": "",
+  "description": "Developed a vision-based social navigation framework using deep learning and transformer architectures for GPS-free autonomous robot navigation in dynamic human environments."
+},
+{
+  "name": "Video-Based Dynamic Obstacle Avoidance using Deep Reinforcement Learning",
+  "category": "Research Project",
+  "date": "2025-04-01",
+  "url": "https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance",
+  "description": "Developed a real-time obstacle avoidance framework integrating YOLO-based perception with Deep Reinforcement Learning in ROS2 and Gazebo."
+},
     {
       "name": "Movie Recommendation with Collaborative Filtering",
       "category": "project",
@@ -189,10 +256,10 @@
       "name": "Prof. Xiaojun Qian",
       "reference": "Supervisor at Nanjing Normal University"
     },
-    {
-      "name": "Prof. Wangqi Yang",
-      "reference": "Instructor at Nanjing Normal University"
-    },
+  {
+  "name": "Prof. Wang qi Yang",
+  "reference": "School of Computer and Electronic Information, Nanjing Normal University"
+},
     {
       "name": "A/Prof. Qian Gao",
       "reference": "Co-supervisor at Nanjing Normal University"
