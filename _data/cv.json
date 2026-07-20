@@ -4,36 +4,37 @@
     "email": "hasanul.kabir09@gmail.com",
     "phone": "+8618602552671",
     "website": "https://hasanulkabir-md.github.io/",
-"summary": "M.Sc. graduate in Computer Science and Technology from Nanjing Normal University with research interests in Artificial Intelligence, Computer Vision, Autonomous Robots, Multi-Agent Systems, Deep Reinforcement Learning, Machine Learning, Software Testing, Medical Image Analysis, and AI for Precision Agriculture. Received a PhD admission offer from Chongqing University and will begin doctoral studies soon."    "location": {
+    "summary": "M.Sc. graduate in Computer Science and Technology from Nanjing Normal University with research interests in Artificial Intelligence, Computer Vision, Autonomous Robots, Multi-Agent Systems, Deep Reinforcement Learning, Machine Learning, Software Testing, Medical Image Analysis, and AI for Precision Agriculture. Received a PhD admission offer from Chongqing University and will begin doctoral studies soon.",
+    "location": {
       "address": "",
       "postalCode": "",
       "city": "Nanjing",
       "countryCode": "CN",
       "region": "Jiangsu"
     },
-   "profiles": [
-  {
-    "network": "Google Scholar",
-    "username": "xG7C5mcAAAAJ",
-    "url": "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "xG7C5mcAAAAJ",
+        "url": "https://scholar.google.com/citations?user=xG7C5mcAAAAJ&hl=en"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0004-3180-819X",
+        "url": "https://orcid.org/0009-0004-3180-819X"
+      },
+      {
+        "network": "GitHub",
+        "username": "hasanulkabir-md",
+        "url": "https://github.com/hasanulkabir-md"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "hasanulkabir-md",
+        "url": "https://linkedin.com/in/hasanulkabir-md/"
+      }
+    ]
   },
-  {
-    "network": "ORCID",
-    "username": "https://orcid.org/0009-0004-3180-819X",
-    "url": "https://orcid.org/0009-0004-3180-819X"
-  },
-  {
-    "network": "GitHub",
-    "username": "hasanulkabir-md",
-    "url": "https://github.com/hasanulkabir-md"
-  },
-  {
-    "network": "LinkedIn",
-    "username": "hasanulkabir-md",
-    "url": "https://linkedin.com/in/hasanulkabir-md/"
-  }
-],
-
   "work": [
     {
       "position": "Research Assistant",
@@ -52,93 +53,90 @@
       "summary": "Worked on cybersecurity projects using Kali Linux, Nmap, Wireshark, Metasploit, Burp Suite, and OWASP ZAP, applying ethical hacking techniques."
     }
   ],
-
   "education": [
     {
       "institution": "Nanjing Normal University",
       "area": "Computer Science & Technology",
-      "studyType": "Master",
+      "studyType": "M.Sc.",
       "startDate": "2023-09-01",
-      "endDate": "2026-07-15",
+      "endDate": "2026-06-30",
       "gpa": "84.5%",
       "courses": []
     },
     {
       "institution": "Henan Polytechnic University",
       "area": "Computer Science & Technology",
-      "studyType": "BSc",
+      "studyType": "B.Sc.",
       "startDate": "2017-09-01",
       "endDate": "2021-06-01",
       "gpa": "85%",
       "courses": []
     }
   ],
-
- "skills": [
-  {
-    "name": "Programming",
-    "keywords": [
-      "Python",
-      "C++",
-      "Java",
-      "JavaScript",
-      "MATLAB",
-      "HTML",
-      "CSS"
-    ]
-  },
-  {
-    "name": "Artificial Intelligence",
-    "keywords": [
-      "Machine Learning",
-      "Deep Learning",
-      "Deep Reinforcement Learning",
-      "Computer Vision",
-      "PyTorch",
-      "TensorFlow",
-      "OpenCV",
-      "YOLO",
-      "CNN",
-      "Transformer",
-      "Vision Transformer"
-    ]
-  },
-  {
-    "name": "Robotics",
-    "keywords": [
-      "ROS",
-      "ROS2",
-      "Gazebo",
-      "SLAM",
-      "Path Planning",
-      "Trajectory Prediction",
-      "Multi-Robot Systems",
-      "Autonomous Navigation"
-    ]
-  },
-  {
-    "name": "Software & Tools",
-    "keywords": [
-      "Git",
-      "Linux",
-      "Docker",
-      "WSL2",
-      "CUDA"
-    ]
-  },
-  {
-    "name": "Cybersecurity",
-    "keywords": [
-      "Ethical Hacking",
-      "Kali Linux",
-      "Nmap",
-      "Wireshark",
-      "Metasploit",
-      "OWASP ZAP"
-    ]
-  }
-]
-
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "JavaScript",
+        "MATLAB",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Deep Reinforcement Learning",
+        "Computer Vision",
+        "PyTorch",
+        "TensorFlow",
+        "OpenCV",
+        "YOLO",
+        "CNN",
+        "Transformer",
+        "Vision Transformer"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "keywords": [
+        "ROS",
+        "ROS2",
+        "Gazebo",
+        "SLAM",
+        "Path Planning",
+        "Trajectory Prediction",
+        "Multi-Robot Systems",
+        "Autonomous Navigation"
+      ]
+    },
+    {
+      "name": "Software & Tools",
+      "keywords": [
+        "Git",
+        "Linux",
+        "Docker",
+        "WSL2",
+        "CUDA"
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "keywords": [
+        "Ethical Hacking",
+        "Kali Linux",
+        "Nmap",
+        "Wireshark",
+        "Metasploit",
+        "OWASP ZAP"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Bangla",
@@ -149,61 +147,58 @@
       "fluency": "C1 (Listening, Reading), B2 (Speaking, Writing)"
     }
   ],
-
-"interests": [
-  {
-    "name": "Artificial Intelligence"
-  },
-  {
-    "name": "Autonomous Robotics"
-  },
-  {
-    "name": "Computer Vision"
-  },
-  {
-    "name": "Deep Reinforcement Learning"
-  },
-  {
-    "name": "Multi-Agent Systems"
-  },
-  {
-    "name": "Medical Image Analysis"
-  },
-  {
-    "name": "Plant Disease Detection"
-  },
-  {
-    "name": "Precision Agriculture"
-  },
-  {
-    "name": "Safe and Trustworthy AI"
-  }
-],
-
+  "interests": [
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Autonomous Robotics"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Deep Reinforcement Learning"
+    },
+    {
+      "name": "Multi-Agent Systems"
+    },
+    {
+      "name": "Medical Image Analysis"
+    },
+    {
+      "name": "Plant Disease Detection"
+    },
+    {
+      "name": "Precision Agriculture"
+    },
+    {
+      "name": "Safe and Trustworthy AI"
+    }
+  ],
   "publications": [
     {
-  "name": "Calibration and Safety Audit of Transformer-Based Trajectory Prediction for Dense-Crowd Navigation",
-  "publisher": "IEEE Robotics and Automation Letters (IEEE RA-L)",
-  "releaseDate": "2026",
-  "website": "",
-  "summary": "Submitted. Presents a calibration-aware framework for evaluating uncertainty, reliability, and safety of transformer-based trajectory prediction models in dense crowd navigation."
-}
+      "name": "Calibration and Safety Audit of Transformer-Based Trajectory Prediction for Dense-Crowd Navigation",
+      "publisher": "IEEE Robotics and Automation Letters (IEEE RA-L)",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Submitted."
+    },
     {
       "name": "Multi-point Navigation Method for Intelligent Inspection Robots",
       "publisher": "Journal of Computing and Electronic Information Management",
       "releaseDate": "2024",
       "website": "https://hasanulkabir-md.github.io/files/Paper1.pdf",
-      "summary": "Developed a ROS-based multi-point autonomous navigation system integrating SLAM, AMCL localization, and DWA obstacle avoidance."
+      "summary": "Developed a ROS-based multi-point navigation system."
     },
     {
       "name": "Credit Approval Decision using Machine Learning Algorithms",
       "publisher": "IEEE ICRITO",
       "releaseDate": "2022",
       "website": "https://hasanulkabir-md.github.io/files/Paper2.pdf",
-      "summary": "Proposed a machine learning–based approach for automated loan approval using classification algorithms on real-world datasets."
+      "summary": "Machine learning based loan approval."
     }
   ],
-
   "presentations": [
     {
       "name": "Research on Video-Based Obstacle Avoidance Using Deep Reinforcement Learning",
@@ -213,56 +208,53 @@
       "description": ""
     }
   ],
-
   "teaching": [
     {
-      "_comment": "No explicit teaching experience listed in CV"
+      "_comment": "No formal teaching experience."
     }
   ],
-
   "portfolio": [
     {
-  "name": "SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context",
-  "category": "Master's Thesis",
-  "date": "2026-05-01",
-  "url": "",
-  "description": "Developed a vision-based social navigation framework using deep learning and transformer architectures for GPS-free autonomous robot navigation in dynamic human environments."
-},
-{
-  "name": "Video-Based Dynamic Obstacle Avoidance using Deep Reinforcement Learning",
-  "category": "Research Project",
-  "date": "2025-04-01",
-  "url": "https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance",
-  "description": "Developed a real-time obstacle avoidance framework integrating YOLO-based perception with Deep Reinforcement Learning in ROS2 and Gazebo."
-},
+      "name": "SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context",
+      "category": "Master's Thesis",
+      "date": "2026-05-01",
+      "url": "",
+      "description": "Vision-based social navigation framework."
+    },
+    {
+      "name": "Video-Based Dynamic Obstacle Avoidance using Deep Reinforcement Learning",
+      "category": "Research Project",
+      "date": "2025-04-01",
+      "url": "https://github.com/hasanulkabir-md/dynamic_obstacle_avoidance",
+      "description": "Obstacle avoidance in ROS2/Gazebo."
+    },
     {
       "name": "Movie Recommendation with Collaborative Filtering",
-      "category": "project",
+      "category": "Project",
       "date": "2021-05-04",
       "url": "https://www.academia.edu/87584319/",
-      "description": "Developed and compared collaborative filtering approaches for recommender systems."
+      "description": "Recommendation system."
     },
     {
       "name": "2D Object Tracking Using Kalman Filter",
-      "category": "project",
+      "category": "Project",
       "date": "2024-04-01",
       "url": "https://github.com/hasanulkabir-md/kalman-filter-tracking",
-      "description": "Implemented Kalman filtering for motion tracking under noisy measurements."
+      "description": "Kalman tracking."
     }
   ],
-
   "references": [
     {
       "name": "Prof. Xiaojun Qian",
-      "reference": "Supervisor at Nanjing Normal University"
+      "reference": "Supervisor, Nanjing Normal University"
     },
-  {
-  "name": "Prof. Wang qi Yang",
-  "reference": "School of Computer and Electronic Information, Nanjing Normal University"
-},
+    {
+      "name": "Prof. Wanqi Yang",
+      "reference": "School of Computer and Electronic Information, Nanjing Normal University"
+    },
     {
       "name": "A/Prof. Qian Gao",
-      "reference": "Co-supervisor at Nanjing Normal University"
+      "reference": "Co-supervisor, Nanjing Normal University"
     }
   ]
 }
