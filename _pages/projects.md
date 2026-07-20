@@ -9,6 +9,17 @@ Here is a selection of my main projects. More details are available on my GitHub
 
 ---
 
+## SocialNav-Transformer: GPS-Free Social Navigation via Local Visual Context (Master's Thesis)
+
+![SocialNav-Transformer](/images/socialnav-transformer.png){: width="120" .align-left }
+
+My master's thesis proposes a vision-based social navigation framework that enables autonomous robots to navigate safely in dynamic, GPS-denied environments. The framework leverages deep visual representations and transformer architectures to predict socially compliant trajectories using only onboard camera observations.
+
+**Keywords:** Computer Vision • Transformer • Social Navigation • Robotics • Deep Learning
+
+[Project Details](https://github.com/hasanulkabir-md/SocialNav-Transformer){: .btn .btn--primary .btn--sm }
+
+{: .clear }
 ### Video-based Obstacle Avoidance using Deep Reinforcement Learning (DRL)
 
 ![Video-based obstacle avoidance thumbnail](/images/drl-obstacle-avoidance.jpg){: width="120" .align-left }
@@ -17,6 +28,17 @@ An end-to-end obstacle avoidance system for autonomous mobile robots using real-
 A **YOLO-based detector** provides perception, while **DQN/PPO** learn collision-free navigation policies in **ROS + Gazebo**.
 
 [View code on GitHub](https://github.com/hasanulkabir-md){: .btn .btn--primary .btn--sm }
+
+{: .clear }
+
+## Calibration and Safety Audit of Transformer-Based Trajectory Prediction
+
+![Trajectory Prediction](/images/trajectory-prediction.jpg){: width="120" .align-left }
+
+Research project associated with my IEEE Robotics and Automation Letters (RA-L) manuscript. The project evaluates uncertainty calibration, reliability, and safety of transformer-based trajectory prediction models for dense crowd navigation.
+
+**Keywords:** Trajectory Prediction • AI Safety • Transformer • Autonomous Navigation
+[Project Details](https://github.com/hasanulkabir-md/SocialNav-Transformer){: .btn .btn--primary .btn--sm }
 
 {: .clear }
 
