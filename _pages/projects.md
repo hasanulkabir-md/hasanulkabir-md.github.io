@@ -33,12 +33,12 @@ A **YOLO-based detector** provides perception, while **DQN/PPO** learn collision
 
 ## Calibration and Safety Audit of Transformer-Based Trajectory Prediction
 
-![Trajectory Prediction](/images/trajectory-prediction.jpg){: width="120" .align-left }
+![Trajectory Prediction](/images/trajectory-prediction.png){: width="120" .align-left }
 
 Research project associated with my IEEE Robotics and Automation Letters (RA-L) manuscript. The project evaluates uncertainty calibration, reliability, and safety of transformer-based trajectory prediction models for dense crowd navigation.
 
 **Keywords:** Trajectory Prediction • AI Safety • Transformer • Autonomous Navigation
-[Project Details](https://github.com/hasanulkabir-md/SocialNav-Transformer){: .btn .btn--primary .btn--sm }
+[Project Details](https://github.com/hasanulkabir-md/CoopCalib){: .btn .btn--primary .btn--sm }
 
 {: .clear }
 
