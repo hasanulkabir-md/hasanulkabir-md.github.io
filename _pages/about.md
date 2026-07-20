@@ -31,6 +31,8 @@ Beyond robotics, I am also interested in applying AI and computer vision to inte
 Previously, I completed my **B.Sc. in Computer Science and Technology** at **Henan Polytechnic University** in July 2021.
 
 > 🎓 **Received a PhD admission offer from Chongqing University. I will begin my doctoral studies soon.**
+
+
 ## News & Activities
 
 - **July 2026** — Received a PhD admission offer from Chongqing University.
