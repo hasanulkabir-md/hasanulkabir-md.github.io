@@ -38,6 +38,7 @@ A **YOLO-based detector** provides perception, while **DQN/PPO** learn collision
 Research project associated with my IEEE Robotics and Automation Letters (RA-L) manuscript. The project evaluates uncertainty calibration, reliability, and safety of transformer-based trajectory prediction models for dense crowd navigation.
 
 **Keywords:** Trajectory Prediction • AI Safety • Transformer • Autonomous Navigation
+
 [Project Details](https://github.com/hasanulkabir-md/CoopCalib){: .btn .btn--primary .btn--sm }
 
 {: .clear }
